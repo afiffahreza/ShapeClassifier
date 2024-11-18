@@ -2,10 +2,10 @@
 This is the repository to experiment with testing. You only need to test `evaluateGuess()` method
 
 # Team
-Afif Refrizal (arefriza)
-Abizer Luqmanji (aluqmanj)
-Muhammad Mazaya (mmazaya)
-Jacqueline Tsai (yunhsuat)
+Afif Refrizal (arefriza)  
+Abizer Luqmanji (aluqmanj)  
+Muhammad Mazaya (mmazaya)  
+Jacqueline Tsai (yunhsuat)  
 
 # Blackbox Testing
 
